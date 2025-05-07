@@ -1,6 +1,12 @@
 <img src="https://github.com/alimudasirpcr/mudasirhussain/blob/main/mudasir.png" style="width:100%">
 <h1 align="center">Hi 👋, I'm Mudasir Hussain</h1>
-<h3 align="left">Experienced and results-driven DevOps Lead with over 10 years of expertise in designing, implementing, and managing scalable, high-performing infrastructures and deployment pipelines. Proficient in CI/CD processes, containerization with Docker, and orchestration using Kubernetes, with hands-on experience managing multi-cloud environments (AWS, Azure, GCP). Adept at automating workflows, optimizing system performance, and implementing Infrastructure as Code (IaC) with tools like Terraform and Ansible. Skilled in fostering collaboration between development and operations teams to ensure seamless, reliable software delivery. A strong advocate for security best practices (DevSecOps) and observability using tools like Grafana, Prometheus, and Jaeger. With excellent communication and leadership abilities, I mentor DevOps teams to achieve operational excellence and align with organizational goals..</h3>
+<h3 align="left">Dynamic and seasoned Agile Coach with over 5 years of dedicated experience in guiding teams through agile 
+transformations across Scrum, SAFe, and Kanban methodologies. Backed by 10 years of experience in software 
+engineering, bringing a deep understanding of development lifecycles, coding standards, and technical challenges that 
+teams face. Skilled in mentoring large teams, having successfully led multiple squads to agile maturity in multinational 
+settings. Proficient in creating collaborative, engaging, and high-performing team environments, and driving the 
+adoption of agile best practices to align with strategic business goals. Holds multiple certifications in agile coaching and 
+Scrum mastery, with a strong background in DevOps and technical project management...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimudasirpcr&label=Profile%20views&color=0e75b6&style=flat" alt="alimudasirpcr" /> </p>
 
