@@ -7,7 +7,7 @@ teams face. Skilled in mentoring large teams, having successfully led multiple s
 settings. Proficient in creating collaborative, engaging, and high-performing team environments, and driving the 
 adoption of agile best practices to align with strategic business goals. Holds multiple certifications in agile coaching and 
 Scrum mastery, with a strong background in DevOps and technical project management...</h3>
-
+![](https://komarev.com/ghpvc/?username=alimudasirpcr)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimudasirpcr&label=Profile%20views&color=0e75b6&style=flat" alt="alimudasirpcr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimudasirpcr" alt="alimudasirpcr" /></a> </p>
