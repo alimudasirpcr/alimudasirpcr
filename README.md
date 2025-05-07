@@ -12,7 +12,7 @@ Scrum mastery, with a strong background in DevOps and technical project manageme
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimudasirpcr" alt="alimudasirpcr" /></a> </p>
 
-- 🔭 I’m currently working on [Rmt Gaming](https://rmtgaming.com/)
+- 🔭 I’m currently working on [Development Bank Of Oman](https://db.com/)
 
 - 🌱 I’m currently learning **Nodejs , Mongodb**
 
