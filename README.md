@@ -1,4 +1,4 @@
-<img src="https://github.com/alimudasirpcr/mudasirhussain/blob/main/mudasir.png" style="width:100%">
+
 <h1 align="center">Hi 👋, I'm Mudasir Hussain</h1>
 <h3 align="left">Dynamic and seasoned Agile Coach with over 5 years of dedicated experience in guiding teams through agile 
 transformations across Scrum, SAFe, and Kanban methodologies. Backed by 10 years of experience in software 
